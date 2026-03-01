@@ -15,9 +15,9 @@ Each investigation follows a consistent methodology:
 
 ---
 
-## 📂 Investigations
+## Investigations
 
-### 1️Phishing-to-C2 Network Investigation (TA577 Infrastructure)
+### 1. Phishing-to-C2 Network Investigation (TA577 Infrastructure)
 Analysis of a phishing-delivered payload leading to automated DNS resolution bursts and encrypted outbound command-and-control behavior.
 
 Focus Areas:
@@ -27,7 +27,7 @@ Focus Areas:
 - Indicator validation
 - Threat intelligence enrichment
 
-[View Investigation →](./investigations/phishing-to-c2-ta577)
+[View Investigation](https://github.com/joshoharaa/network-forensics-investigations/blob/main/README.md)
 
 ---
 
