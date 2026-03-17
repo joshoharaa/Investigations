@@ -31,4 +31,20 @@ Focus Areas:
 
 ---
 
+2. Brute-Force Authentication Investigation (MITRE T1110)
+
+Analysis of high-volume authentication attempts targeting multiple accounts, leading to successful compromise of a privileged administrator account.
+
+Focus Areas:
+
+- Authentication event analysis
+- Brute-force pattern identification
+- Failed and successful login correlation
+- Source IP and geolocation analysis
+- Threat intelligence enrichment
+
+[View Investigation](https://github.com/joshoharaa/brute-force-investigation/blob/main/README.md)
+
+--- 
+
 More investigations coming soon.
