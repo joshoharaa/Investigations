@@ -66,4 +66,22 @@ Focus Areas:
 
 --- 
 
+### 4. Multi-stage Privilege Escalation & Persistence Investigation (Account Compromise)
+
+Analysis of a multi-stage attack involving unauthorised account creation, privilege escalation, persistence, and lateral movement across multiple hosts. The attacker leveraged native Windows tools and RDP access to establish control and maintain long-term access.
+
+**Focus Areas:**
+
+- Account creation and manipulation (T1136, T1098)
+- Privilege escalation via Administrators group membership
+- Persistence through password policy modification
+- Lateral movement using valid accounts (T1078)
+- Remote access via RDP (T1021.001)
+- Living-off-the-Land techniques (LOLBins)
+
+
+[View Investigation](https://github.com/joshoharaa/incident-privilege-escalation-account-persistence/blob/main/README.md)
+
+---
+
 More investigations coming soon.
