@@ -31,7 +31,7 @@ Focus Areas:
 
 ---
 
-2. Brute-Force Authentication Investigation (MITRE T1110)
+### 2. Brute-Force Authentication Investigation (MITRE T1110)
 
 Analysis of high-volume authentication attempts targeting multiple accounts, leading to successful compromise of a privileged administrator account.
 
@@ -47,7 +47,7 @@ Focus Areas:
 
 ---
 
-3. Fileless PowerShell Malware Investigation (Encoded Command & IEX Execution)
+### 3. Fileless PowerShell Malware Investigation (Encoded Command & IEX Execution)
 
 Analysis of suspicious PowerShell execution involving an encoded command and execution policy bypass, used to download and execute a remote payload in memory under SYSTEM context.
 
